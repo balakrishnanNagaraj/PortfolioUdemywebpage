@@ -22,7 +22,7 @@ This is a simple and clean **Contact Page** built using **HTML5** and **basic CS
 ##How to view
 
 You can access my portfolio website by visiting [link: ] feel free to explore the explore the content and get in touch!!
-## 📁 Folder Structure
+
 
 ## contributing
 
